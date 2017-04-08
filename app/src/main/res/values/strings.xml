@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoalShare</string>
+    <string name="list_title">My Goals</string>
+    <string name="home_screen">Home</string>
+    <string name="new_goal">New Goal</string>
+    <string name="goals">Goals</string>
+    <string name="goal_title_hint">Goal Title</string>
+    <string name="for_who_hint">Who this goal is for</string>
+    <string name="description_hint">Goal description</string>
+    <string name="create_goal">Create Goal</string>
+</resources>
